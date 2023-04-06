@@ -13,7 +13,6 @@
 		3AA30E7529D5AF9600D3AE80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AA30E7429D5AF9600D3AE80 /* Assets.xcassets */; };
 		3AA30E7829D5AF9600D3AE80 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AA30E7729D5AF9600D3AE80 /* Preview Assets.xcassets */; };
 		3AA30E8129DB170B00D3AE80 /* SelectorHatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA30E8029DB170B00D3AE80 /* SelectorHatView.swift */; };
-		3AB758A229DD7DF500B54A99 /* Framework.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AB758A129DD7DF500B54A99 /* Framework.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		3AA30E7429D5AF9600D3AE80 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3AA30E7729D5AF9600D3AE80 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3AA30E8029DB170B00D3AE80 /* SelectorHatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectorHatView.swift; sourceTree = "<group>"; };
-		3AB758A129DD7DF500B54A99 /* Framework.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Framework.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +68,6 @@
 				3AA30E7029D5AF9500D3AE80 /* desafioSaoFranciscoApp.swift */,
 				3AA30E7229D5AF9500D3AE80 /* ContentView.swift */,
 				3AA30E8029DB170B00D3AE80 /* SelectorHatView.swift */,
-				3AB758A129DD7DF500B54A99 /* Framework.swift */,
 				3AA30E7429D5AF9600D3AE80 /* Assets.xcassets */,
 				3A5D161829DC2E780006D663 /* Info.plist */,
 				3AA30E7629D5AF9600D3AE80 /* Preview Content */,
@@ -157,7 +154,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3AB758A229DD7DF500B54A99 /* Framework.swift in Sources */,
 				3AA30E7329D5AF9500D3AE80 /* ContentView.swift in Sources */,
 				3AA30E7129D5AF9500D3AE80 /* desafioSaoFranciscoApp.swift in Sources */,
 				3AA30E8129DB170B00D3AE80 /* SelectorHatView.swift in Sources */,
